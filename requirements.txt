@@ -10,4 +10,3 @@ altair==4.1.0
 
 pycountry==22.1.10
 
-seaborn
